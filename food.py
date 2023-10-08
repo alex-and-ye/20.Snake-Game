@@ -21,3 +21,4 @@ class Food(Turtle):
 
     def new_color(self):
         self.color(random.choice(COLORS))
+# che nibud g gftft ftvtft
